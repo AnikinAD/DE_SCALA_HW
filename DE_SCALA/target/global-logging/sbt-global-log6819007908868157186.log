@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/Anikei/IdeaProjects/DE_SCALA/}root/compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 13 нояб. 2022 г., 17:52:38
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
